@@ -1,1 +1,2 @@
-Repo to keep track of the newest version of a custom client, hosted here for a static url. Not for public use. 
+# Version Number
+Keep track of the newest version of a custom game client, hosted for a static url. Compares users built-in client version with the version supplied here (latest version).
